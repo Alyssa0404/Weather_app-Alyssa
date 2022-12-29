@@ -9,6 +9,8 @@
   "author": "Alyssa balaoro",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "hbs": "^4.2.0",
+    "request": "^2.88.2"
   }
 }
